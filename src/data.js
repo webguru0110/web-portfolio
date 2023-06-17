@@ -15,7 +15,7 @@ export { HeroDark as Dark };
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "webguru0110";
 
 // Blog link icon - https://icon-sets.iconify.design/
 export const Blog = <Icon icon="ph:link-bold" />;
@@ -94,6 +94,14 @@ export const projectCardImages = [
     name: "example-1",
     image: Logo,
   },
+  {
+    name: "example-2",
+    image: Logo,
+  },
+  {
+    name: "example-3",
+    image: Logo,
+  }
 ];
 
 /* Contact Info
